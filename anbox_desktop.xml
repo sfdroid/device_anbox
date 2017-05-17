@@ -15,7 +15,6 @@
 -->
 
 <permissions>
-    <feature name="android.software.freeform_window_management" />
     <feature name="android.hardware.ethernet" />
     <unavailable-feature name="android.software.app_widgets" />
     <unavailable-feature name="android.software.home_screen" />
